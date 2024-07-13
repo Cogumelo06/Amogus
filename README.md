@@ -1,4 +1,5 @@
-![character5](https://github.com/Cogumelo06/Amogus/assets/141068361/ea579d9c-350b-4aba-ad0e-9961ec618f4a) 🅐🅜🅞🅖🅤🅢 ![character5](https://github.com/Cogumelo06/Amogus/assets/141068361/ea579d9c-350b-4aba-ad0e-9961ec618f4a)
+   ![Design_sem_nome__1_-removebg-preview](https://github.com/user-attachments/assets/01a688bc-bd1e-4a4b-b280-44737afcc5a4)
+
 
 # Trabalho para apresentação de Paradigmas
 
