@@ -1,0 +1,17 @@
+
+
+## História da Linguagem Lua
+
+Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações. Criada em 1993 no Brasil por Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes, 
+Lua surgiu da necessidade de uma linguagem de script para complementar projetos internos no Tecgraf, o grupo de tecnologia gráfica da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+
+Inicialmente, Lua foi influenciada por linguagens como SOL (Simple Object Language) e DEL (Data Entry Language), desenvolvidas anteriormente pela equipe do Tecgraf.
+A simplicidade e flexibilidade foram princípios fundamentais desde o início, com a intenção de oferecer uma linguagem de fácil integração e com um núcleo mínimo, mas extensível.
+
+Lua rapidamente ganhou popularidade por sua eficiência e capacidade de ser embutida em outras aplicações. Um dos primeiros sucessos foi sua adoção pela Petrobras para simulações e processamento de dados. 
+Desde então, Lua foi adotada globalmente em diversas áreas, incluindo jogos, sistemas embarcados, processamento de dados científicos e até mesmo em grandes empresas de tecnologia como Adobe e Google.
+
+A linguagem continua a evoluir sob a liderança de seus criadores, com uma comunidade ativa de desenvolvedores contribuindo para sua expansão e aprimoramento contínuo.
+Lua é conhecida por sua sintaxe clara e minimalista, gerenciamento automático de memória com coleta de lixo, e facilidade de integração com C/C++.
+
+Hoje, Lua é uma escolha popular para projetos que requerem uma linguagem de script eficiente, pequena e altamente embutível, destacando-se especialmente no desenvolvimento de jogos e aplicações móveis.
