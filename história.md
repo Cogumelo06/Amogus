@@ -1,4 +1,5 @@
 
+![História-removebg-preview](https://github.com/user-attachments/assets/3a397cc1-6b6a-414d-868b-dc936c460a8f)
 
 ## História da Linguagem Lua
 
