@@ -13,4 +13,4 @@ Pra fazer o jogo utilizamos a linguagem LUA em sua totalidade!
 
 ![heart_full](https://github.com/Cogumelo06/Amogus/assets/141068361/004bfd44-269f-48cc-8b4c-eb67430bf414) [História da Linguagem]
 
-![heart_full](https://github.com/Cogumelo06/Amogus/assets/141068361/004bfd44-269f-48cc-8b4c-eb67430bf414) [Código Completo]
+![heart_full](https://github.com/Cogumelo06/Amogus/assets/141068361/004bfd44-269f-48cc-8b4c-eb67430bf414) [Código Completo](https://github.com/Cogumelo06/Amogus/tree/main/Códigos)
